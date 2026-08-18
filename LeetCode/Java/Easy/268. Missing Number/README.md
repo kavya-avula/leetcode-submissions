@@ -1,6 +1,6 @@
 # 📝 268. Missing Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/missing-number/)
+🔗 [Problem Link](https://leetcode.com/problems/missing-number)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,7 +8,7 @@
 Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
