@@ -1,6 +1,6 @@
 # 📝 268. Missing Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/missing-number)
+🔗 [Problem Link](https://leetcode.com/problems/missing-number/solutions/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
